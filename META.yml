@@ -1,0 +1,21 @@
+---
+name: Template-Quick
+version: 0.27
+author:
+  - 'Dirk Lindner <lze@cpan.org>'
+abstract: a Simple Template system
+license: lgpl
+resources:
+  license: http://opensource.org/licenses/artistic-license.php
+requires:
+  CGI::QuickApp: '>=0.25'
+  Module::Build: 0
+  Test::More: 0
+provides:
+  Template::Quick:
+    file: lib/Template/Quick.pm
+    version: 0.27
+generated_by: Module::Build version 0.2808
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2

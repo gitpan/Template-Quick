@@ -1,0 +1,6 @@
+Revision history for Perl Template::Quick 0.27
+
+0.27
+        renamed to Template::Quick, some fixes
+0.26
+        Overwrought Docs and clean up code, fix build System
